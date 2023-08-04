@@ -1,43 +1,25 @@
-
-
-    class Solution {
+class Solution {
 public:
     int partitionString(string s) {
+        
+        // Using of the set function 
 
-    //     int i = 0, ans = 1,flag = 0;
+        set<char>st;
+        int g = 1;
 
-    //     while(i < s.size()){
-    //         int val = s[i] - 'a';
-    //         if( flag & (1<<val) ) {
-    //             flag = 0;
-    //             ans++;
-    //         }
+        for(int i = 0; i<s.size(); i++){
 
-    //         flag = flag | (1<<val);  // using of the right shift operator 
+            if(st.find(s[i])!=st.end()){
+                g++;
 
-    //         i++;
-    //     }
-    //     return ans;
-    // }
-
-
-    // Optamised Approach 
-    int i = 0, ans  = 1, flag = 0;
-    while(i<s.size()){
-        int val = s[i] - 'a';
-        if(flag  & (1<<val)){
-            flag = 0;
-            ans++;
+                st.clear();
+                st.insert(s[i]);
+            }
+            else{
+                st.insert(s[i]);
+            }
         }
 
-        flag = flag | (1<<val);
-
-        i++;
+        return g;
     }
-
-    return ans;
-
-    }
-    
-    
 };
