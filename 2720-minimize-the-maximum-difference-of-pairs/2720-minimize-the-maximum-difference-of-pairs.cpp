@@ -2,7 +2,9 @@ class Solution {
 public:
 
 
- bool solve(vector<int>&nums, int d, int p){
+ bool solve(vector<int>&nums, int d, int p){  
+
+     // D - > Difference , P -> pairs 
 
      int n = nums.size();
 
@@ -10,11 +12,14 @@ public:
 
      for(int i = 0; i<n-1; i++){
 
+        // Example -> 1 - 1 <= 2 
+
          if(nums[i+1] - nums[i]<=d){
 
              count++;
              i++; 
          }
+          // Checking the Count> pairs
 
          if(count>=p)
             return true;
@@ -37,7 +42,8 @@ public:
 
         while(low<high){
             int mid = (low+high)/2;
-
+        // Checking the function 
+        
         if(solve(nums, mid, p))
 
         high = mid;
