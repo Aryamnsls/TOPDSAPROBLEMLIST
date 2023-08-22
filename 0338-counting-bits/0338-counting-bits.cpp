@@ -7,7 +7,7 @@ public:
         int num = i;
         int count = 0;
 
-        while (num > 0) {
+        while (num != 0) {
             count += num & 1;  // Check if the last bit is set
             num >>= 1;        // Right shift to remove the last bit
         }
