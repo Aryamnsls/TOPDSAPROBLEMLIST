@@ -1,28 +1,30 @@
 class Solution {
 public:
     long long minimumReplacement(vector<int>& nums) {
-        
-        // Used to sort the array 
+        // Solving By Using of the Greedy 
 
-        // sort(nums.begin(), nums.end());
-        
-        // Size of the nums 
-
+        long long res = 0;
         int n = nums.size();
-        int last = nums[n-1];
-        long long ans = 0;  // Used to store the value 
+        // Moving Backwards 
 
-        for(int i = n-2; i>=0; i--){
-            if(nums[i] > last){
-                int t = nums[i]/ last;
-                if(nums[i] % last)t++;
-                last= nums[i]/t;
-                ans+=t-1;
+        long long maxMinValue = nums[n-1];
 
-            }else{
-                last = nums[i];
-            }
+        // Traverse the Loop from Backside 
+
+        for(int i= n-1; i>=0; i--)
+        {
+            // Use the Ceil Value to get the maxmin value 
+
+            long long parts = ceil(nums[i] / (double)maxMinValue);
+
+            // No of Steps in parts - 1
+
+            res+=(parts-1);
+
+            // The New MaxiMinvalue will be the part 
+
+            maxMinValue = nums[i]/parts;
         }
-        return ans;
+        return res;  
     }
 };
