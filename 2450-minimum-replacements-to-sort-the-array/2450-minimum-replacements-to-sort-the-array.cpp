@@ -15,7 +15,7 @@ public:
         for(int i = n-2; i>=0; i--){
             if(nums[i] > last){
                 int t = nums[i]/ last;
-                if(nums[i] % last) t++;
+                if(nums[i] % last)t++;
                 last= nums[i]/t;
                 ans+=t-1;
 
