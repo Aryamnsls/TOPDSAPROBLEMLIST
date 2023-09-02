@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minExtraChar(string s, vector<string>& dictionary) {
+        
         int max_val =  s.length() +1 ;
          vector<int> dp(s.length()+1, max_val);
          dp[0]=0;
