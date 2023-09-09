@@ -2,8 +2,8 @@ class Solution {
 public:
     int combinationSum4(vector<int>& nums, int target) {
         
-        vector<unsigned int> dp(target+1, 0);
-        dp[0] = 1;
+        // vector<unsigned int> dp(target+1, 0);
+        // dp[0] = 1;
 
         // for(int i=0; i<=target; i++)
         
@@ -17,15 +17,31 @@ public:
         // sort(nums.begin(), nums.end());
         // return count;
 
-        for(int i=1; i<=target; i++)
-        {
-            for(int num: nums){
-                if(i - num >=0)
-                {
-                    dp[i] += dp[i-num];
-                }
-            }
-        }
-        return dp[target];
+        // for(int i=1; i<=target; i++)
+        // {
+        //     for(int num: nums){
+        //         if(i - num >=0)
+        //         {
+        //             dp[i] += dp[i-num];
+        //         }
+        //     }
+        // }
+        // return dp[target];
+
+        // 
+
+         vector<unsigned int>dp(target+1, 0);
+         dp[0]  = 1;
+
+         for(int i=1; i<=target; i+=1)
+         {
+             for(auto num: nums){
+                 if(i-num >=0)
+                 {
+                     dp[i] += dp[i-num];
+                 }
+             }
+         }
+         return dp[target];
     }
 };
