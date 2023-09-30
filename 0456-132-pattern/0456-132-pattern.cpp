@@ -1,43 +1,27 @@
 class Solution {
 public:
     bool find132pattern(vector<int>& nums) {
-        // use the binary search code 
-        // int start = 0;
-        // int end = nums.size()-1;
-        // int k = 0;
-        // while(start<end)
-        // {
-        //     // Find out the mid value 
-        //     int mid = (start+end)/2;
-        //     // Check the condition 
-        //     if(mid==k)
-        //     {
-        //         return true;
-        //     }
-        //     // If the target value is greater than mid value 
-        //     if(mid<k)
-        //     start = mid+1;
+         int n = nums.size();
+    if (n < 3) {
+        return false;
+    }
 
-        //     if(mid>k)
-        //     end = mid-1;
-        //     return false;
-        // }
-        // return true || false;
+    stack<int> s;
+    int third = INT_MIN; // Initialize the third element to the smallest possible value.
 
+    for (int i = n - 1; i >= 0; --i) {
+        if (nums[i] < third) {
+            return true; // Found a valid 132 pattern.
+        }
         
- stack<int> stack;  // decreasing stack
-    int maxi = INT_MIN;  // We want to find a seq ai < ak < aj.
+        while (!s.empty() && nums[i] > s.top()) {
+            third = s.top();
+            s.pop();
+        }
 
-    for (int i = nums.size() - 1; i >= 0; --i) {
-      // ai < ak, we're done because ai must also smaller than aj.
-      if (nums[i] < maxi)
-        return true;
-      while (!stack.empty() && stack.top() < nums[i])
-        maxi = stack.top(), stack.pop();
-      stack.push(nums[i]);  // nums[i] is a candidate of aj.
+        s.push(nums[i]);
     }
 
     return false;
-
-    }
+}
 };
