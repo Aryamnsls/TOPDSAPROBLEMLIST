@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestStrChain(vector<string>& words) {
-         std::unordered_map<std::string, int> chains;  // Stores the max chain length for each word
+       unordered_map<std::string, int> chains;  // Stores the max chain length for each word
         std::vector<std::string> sortedWords = words;
         std::sort(sortedWords.begin(), sortedWords.end(), [](const std::string& a, const std::string& b) {
             return a.length() < b.length();  // Sort words by length
