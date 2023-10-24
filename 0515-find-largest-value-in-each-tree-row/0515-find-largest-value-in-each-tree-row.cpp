@@ -15,7 +15,7 @@ public:
       // Create a vector 
       vector<int>result;
       // Chech the pointer is null or not 
-      if(!root) return result;
+      if(root==NULL) return result;
        // Create a queue
       queue<TreeNode*>q;
       // insert the root value to the queue
