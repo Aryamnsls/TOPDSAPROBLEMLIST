@@ -1,6 +1,8 @@
 class Solution {
 public:
     bool isReachableAtTime(int sx, int sy, int fx, int fy, int t) {
+        // Using of the math concept 
+        
         // Breakdown the concept 
 
         // Finding out the horizontal distance 
@@ -21,11 +23,11 @@ public:
         int min_time = max(hor_dist, vert_dist);
 
         // CHecking the condition if time is smaller than min time 
-        if(t<min_time)
-        return false;
-
-
+        if(t>=min_time)
         return true;
+
+
+        return false;
 
         // Time Complexity :- O(1)
         // Space Complexity :- O(1)
