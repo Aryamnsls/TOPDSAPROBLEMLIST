@@ -20,3 +20,15 @@
 |  |
 | ------- |
 | [0891-score-after-flipping-matrix](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0891-score-after-flipping-matrix) |
+# Tree
+|  |
+| ------- |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2416-evaluate-boolean-binary-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2416-evaluate-boolean-binary-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2416-evaluate-boolean-binary-tree) |
