@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0891-score-after-flipping-matrix](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0891-score-after-flipping-matrix) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -32,3 +33,11 @@
 |  |
 | ------- |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2416-evaluate-boolean-binary-tree) |
+# Two Pointers
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# String
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2572-append-characters-to-string-to-make-subsequence) |
