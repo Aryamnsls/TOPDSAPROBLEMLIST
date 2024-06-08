@@ -7,6 +7,7 @@
 # Array
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0523-continuous-subarray-sum) |
 | [0891-score-after-flipping-matrix](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0891-score-after-flipping-matrix) |
 # Greedy
 |  |
@@ -41,3 +42,15 @@
 |  |
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Hash Table
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0523-continuous-subarray-sum) |
+# Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0523-continuous-subarray-sum) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0523-continuous-subarray-sum) |
