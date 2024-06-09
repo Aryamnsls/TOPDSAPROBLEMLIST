@@ -9,6 +9,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0523-continuous-subarray-sum) |
 | [0891-score-after-flipping-matrix](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0891-score-after-flipping-matrix) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1016-subarray-sums-divisible-by-k) |
 # Greedy
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1016-subarray-sums-divisible-by-k) |
 # Math
 |  |
 | ------- |
@@ -54,3 +56,4 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1016-subarray-sums-divisible-by-k) |
