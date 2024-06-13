@@ -10,10 +10,12 @@
 | [0523-continuous-subarray-sum](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0523-continuous-subarray-sum) |
 | [0891-score-after-flipping-matrix](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0891-score-after-flipping-matrix) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Greedy
 |  |
 | ------- |
 | [0891-score-after-flipping-matrix](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0891-score-after-flipping-matrix) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Bit Manipulation
 |  |
@@ -57,3 +59,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1016-subarray-sums-divisible-by-k) |
+# Sorting
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
