@@ -12,6 +12,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1138-grumpy-bookstore-owner](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -55,10 +56,12 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1370-count-number-of-nice-subarrays) |
 # Math
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0523-continuous-subarray-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1370-count-number-of-nice-subarrays) |
 # Prefix Sum
 |  |
 | ------- |
@@ -83,3 +86,4 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1370-count-number-of-nice-subarrays) |
