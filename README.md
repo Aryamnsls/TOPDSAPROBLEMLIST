@@ -22,6 +22,7 @@
 | ------- |
 | [0891-score-after-flipping-matrix](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0891-score-after-flipping-matrix) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Bit Manipulation
@@ -36,14 +37,17 @@
 # Tree
 |  |
 | ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1285-balance-a-binary-search-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2416-evaluate-boolean-binary-tree) |
 # Depth-First Search
 |  |
 | ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1285-balance-a-binary-search-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2416-evaluate-boolean-binary-tree) |
 # Binary Tree
 |  |
 | ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1285-balance-a-binary-search-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2416-evaluate-boolean-binary-tree) |
 # Two Pointers
 |  |
@@ -95,3 +99,11 @@
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1285-balance-a-binary-search-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1285-balance-a-binary-search-tree) |
