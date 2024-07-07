@@ -134,6 +134,7 @@
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2645-pass-the-pillow) |
+## Two Pointers
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
