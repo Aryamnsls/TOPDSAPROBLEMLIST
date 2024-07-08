@@ -139,14 +139,28 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2645-pass-the-pillow) |
 ## Two Pointers
 |  |
 | ------- |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
