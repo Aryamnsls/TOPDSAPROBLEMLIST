@@ -154,6 +154,7 @@
 ## Array
 |  |
 | ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
@@ -177,5 +178,10 @@
 ## Greedy
 |  |
 | ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1818-maximum-score-from-removing-substrings) |
+## Matrix
+|  |
+| ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
