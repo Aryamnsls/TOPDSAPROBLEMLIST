@@ -160,6 +160,7 @@
 | [1720-crawler-log-folder](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2502-sort-the-people) |
 ## Recursion
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 | ------- |
 | [1720-crawler-log-folder](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2502-sort-the-people](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -188,4 +190,12 @@
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2472-build-a-matrix-with-conditions) |
+## Hash Table
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2502-sort-the-people) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
