@@ -184,6 +184,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2502-sort-the-people](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -203,12 +205,14 @@
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -233,6 +237,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0948-sort-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
