@@ -144,6 +144,7 @@
 ## Math
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0273-integer-to-english-words) |
 | [1642-water-bottles](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2645-pass-the-pillow) |
@@ -172,6 +173,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -180,6 +182,7 @@
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0273-integer-to-english-words) |
 | [1720-crawler-log-folder](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2502-sort-the-people](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2502-sort-the-people) |
