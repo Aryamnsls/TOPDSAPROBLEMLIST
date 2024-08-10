@@ -112,10 +112,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
@@ -135,6 +137,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Linked List
 |  |
@@ -164,6 +167,7 @@
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0870-magic-squares-in-grid) |
 | [0948-sort-an-array](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0999-regions-cut-by-slashes) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1511-count-number-of-teams) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -205,12 +209,14 @@
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0999-regions-cut-by-slashes) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2472-build-a-matrix-with-conditions) |
 ## Hash Table
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0999-regions-cut-by-slashes) |
 | [2502-sort-the-people](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
