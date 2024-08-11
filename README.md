@@ -114,11 +114,13 @@
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
@@ -170,6 +172,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0999-regions-cut-by-slashes) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1511-count-number-of-teams) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -210,6 +213,7 @@
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2472-build-a-matrix-with-conditions) |
 ## Hash Table
@@ -266,4 +270,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1511-count-number-of-teams) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
