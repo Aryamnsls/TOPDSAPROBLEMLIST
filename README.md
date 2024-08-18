@@ -149,6 +149,7 @@
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1642-water-bottles) |
@@ -219,6 +220,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0999-regions-cut-by-slashes) |
 | [2502-sort-the-people](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/2502-sort-the-people) |
@@ -237,6 +239,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -258,6 +261,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/0264-ugly-number-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Aryamnsls/TOPDSAPROBLEMLIST/tree/master/1511-count-number-of-teams) |
 ## Shortest Path
